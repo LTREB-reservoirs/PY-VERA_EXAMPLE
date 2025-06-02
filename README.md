@@ -1,3 +1,6 @@
+## Python example code repository and tutorial for the VERA Forecasting Challenge  
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)  [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)  [![Open In Colab](https://img.shields.io/badge/Colab-Open_in--Colab-green?logo=googlecolab)](https://colab.research.google.com/)
+
 
 ## 📘 1. Tutorial
 
