@@ -1,7 +1,7 @@
 
 ## 📘 1. Tutorial
 
-This tutorial shows you how to build and run a simple linear regression model to forecast water temperature for the VERA Forecasting Challenge. You’ll integrate R‑developed tools to preprocess the required data, with validation and submission steps implemented in a Python notebook.
+This tutorial guides you through building and running a simple linear regression model to forecast water temperature for the VERA (Virginia Ecologically-informed Reservoir Assessment) Forecasting Challenge. You’ll use R-based tools to preprocess the required data, with validation and submission steps implemented in a Python notebook. Check out the detailed **`vera4cast-example`** repository [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)](https://github.com/LTREB-reservoirs/vera4cast-example) version of this tutorial, from where it is adapted.
 
 ## 🚀2. Get the code
 
